@@ -1,9 +1,9 @@
 # SnapMatch
 
 <pre>
-SnapMatch is an AI-driven face search system that allows users to upload a selfie and instantly retrieve all matching photos 
-from a large database. Using advanced face detection, feature extraction, and similarity matching, SnapMatch accurately 
-identifies and groups images of the same individual.
+SnapMatch is an AI-driven face search system that allows users to upload a selfie and instantly retrieve 
+all matching photos from a large database. Using advanced face detection, feature extraction, and 
+similarity matching, SnapMatch accurately identifies and groups images of the same individual.
 
 ✨ Features:
 ✅ Face Detection & Recognition – Detects faces in images using MTCNN and aligns them with Dlib.
